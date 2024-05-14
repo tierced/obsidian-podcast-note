@@ -20,6 +20,7 @@ export const HOSTS = {
   castro: "castro.fm",
   youtube: "youtube.com",
   addict: "podcastaddict.com",
+  chrtfm: "chrt.fm",
 };
 
 export const DEFAULT_PODCAST: Podcast = {
